@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/fengsam/文档/share/imooc_weixin6_0/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-5ab5bbb3844d6c72109d7acdf4c48c80a5c728cc.jar" />
+    </item>
+
+</items>
