@@ -21,7 +21,7 @@ public class TabFragment extends Fragment
 	{
 		if (getArguments() != null)
 		{
-            //TITLE为flag（标志）
+            //TITLE为flag(标志)
 			mTitle = getArguments().getString(TITLE);
 		}
 
